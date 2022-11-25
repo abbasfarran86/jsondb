@@ -7,5 +7,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "authenticate":{
+  "access_Token":"yJ^fbhjmKW5FH",
+    "role":"Admin",
+    "username":"Abbas"
   }
 }
